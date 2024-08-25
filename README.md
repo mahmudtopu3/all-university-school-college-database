@@ -54,6 +54,10 @@ The data is compiled from the following sources:
 - International Universities
 
 ## Run Local Server (On port 8000, it will directly open index.html)
+![image description](Screenshot%202024-08-25%20184632.png)
+
+
+
 ```
 python -m http.server 8000
 
