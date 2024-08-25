@@ -53,6 +53,12 @@ The data is compiled from the following sources:
 - Madrasha Schools
 - International Universities
 
+## Run Local Server (On port 8000, it will directly open index.html)
+```
+python -m http.server 8000
+
+```
+
 ## Contributions
 
 Feel free to fork this repository and contribute by submitting a pull request if you have additional data or suggestions for improving the dataset.
